@@ -1,12 +1,11 @@
 #ASSALAMUALAIKUM
-#TOOL OWNER SYED SAVAGE  ISLAM#
-#FACEBOOK : SYED SAVAGE  ISLAM
+#TOOL OWNER : Maskatur ISLAM#
+#FACEBOOK : Maskatur ISLAM
 #BROTHER : RASHIDUL ISLAM AYON
 #GITHUB : SAVAGE -123
 #TEAM : SAVAGE -143
 
-                      # ENJOY OPEN SOURCE #
-
+                      
 import os
 os.system('clear')
 #os.system('pip uninstall requests chardet urllib3 idna certifi -y;pip install chardet urllib3 idna certifi requests')
@@ -14,7 +13,7 @@ os.system('pip install httpx pip install beautifulsoup4')
 print('\033[1;32mMODULE INSTALLED.....\n')
 os.system('clear')
 import os,sys,time,json,random,re,string,platform,base64,uuid
-import os,httpx
+import os,http
 from bs4 import BeautifulSoup as sop
 from bs4 import BeautifulSoup
 import requests as ress
