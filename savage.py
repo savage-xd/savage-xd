@@ -13,7 +13,7 @@ os.system('pip install httpx pip install beautifulsoup4')
 print('\033[1;32mMODULE INSTALLED.....\n')
 os.system('clear')
 import os,sys,time,json,random,re,string,platform,base64,uuid
-import os,http
+import os,https
 from bs4 import BeautifulSoup as sop
 from bs4 import BeautifulSoup
 import requests as ress
